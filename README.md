@@ -65,4 +65,4 @@ The presentation includes a section for discussion and Q&A, with possible discus
 
 ## Citation
 
-The citation for the paper will be included in this section.
+Kaddour, J., Harris, J., Mozes, M., Bradley, H., Raileanu, R., & McHardy, R. (2023, July 19). Challenges and applications of large language models. arXiv.org. https://arxiv.org/abs/2307.10169
