@@ -50,7 +50,7 @@ The PowerPoint presentation includes a section on the applications of LLMs.
 
 ## Code Demo
 
-A code demo is available in the repository: [Code Demo](https://github.com/sophiatannir/TTP_LLMs_review)
+A code demo is available in the repository: [[Code Demo](https://github.com/sophiatannir/TTP_LLMs_review)]
 
 ## Critical Analysis
 
