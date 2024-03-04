@@ -46,7 +46,72 @@ The paper groups challenges into three areas:
 
 ## Applications of LLMs
 
-The PowerPoint presentation includes a section on the applications of LLMs.
+### Chatbots
+
+- **Constraints**: 
+  - Maintaining dialog coherence over multiple turns.
+  - High latency in responses.
+
+### Computational Biology
+
+- **Main Focus**: Protein sequence modeling and prediction.
+- **Challenges**: 
+  - Transfer to downstream tasks like drug design remains difficult.
+
+### Computer Programming
+
+- **Applications**: 
+  - Code generation, completion, and review.
+- **Key Constraint**: 
+  - Incorporating long-range dependencies across code bases.
+
+### Creative Work
+
+- **Fields**: Story, script, and text generation.
+- **Limitation**: 
+  - Limited context window requires modular prompting strategies.
+
+### Knowledge Work
+
+- **Constraints**: 
+  - Quantitative reasoning.
+  - Risk of hallucinations.
+
+### Law
+
+- **Focus Areas**: 
+  - Prediction, comprehension, and text generation.
+- **Central Challenge**: 
+  - Outdated information.
+
+### Medicine
+
+- **Uses**: 
+  - Question answering, information extraction, diagnosis, etc.
+- **Primary Constraints**: 
+  - Hallucinations and biases.
+
+### Reasoning
+
+- **Assistance Areas**: 
+  - Mathematical, common sense, and causal reasoning.
+- **Performance**: 
+  - Remains below human levels on many tasks.
+
+### Robotics
+
+- **Applications**: 
+  - Instruction following and planning.
+- **Limitation**: 
+  - Reliance on single modalities limits capabilities.
+
+### Social Sciences
+
+- **Purpose**: 
+  - Simulating human behavior and analyzing model psychology.
+- **Requirement**: 
+  - Mitigating social biases.
+
 
 ## Code Demo
 
