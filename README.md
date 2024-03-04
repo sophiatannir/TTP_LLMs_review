@@ -1,5 +1,3 @@
-# TTP_LLMs_review
-
 # Challenges and Applications of Large Language Models
 
 This repository contains a presentation on the challenges and applications of Large Language Models (LLMs) based on the paper by Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Robert Raileanu, and Robert McHardy.
