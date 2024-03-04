@@ -131,13 +131,13 @@ A code demo is available in the repository: [Code Demo](https://github.com/sophi
 
 ### Potential Errors
 
-- The review does not specify particular errors but encourages the authors to re-examine their methodologies and results for potential inaccuracies.
+- While there are no errors in the paper itself, errors of omission could be considered for things like ethical considerations
 
 ### Disputed Findings
 
 - **Have Others Disputed the Findings?**: 
-  - There is no mention of whether the findings have been disputed by other researchers. It would be beneficial for the paper to address any controversies or debates surrounding the presented research.
-
+  - There are no general disputes for this type of review - we would expect findings here to become outdated (especially challenges and their solutions) and the applications to rapidly expand.
+  
 ### Related Work Section
 
 - **Coverage of Similar and Further Developing Work**: 
