@@ -145,7 +145,25 @@ A code demo is available in the repository: [Code Demo](https://github.com/sophi
 
 ## Discussion and Q&A
 
-The presentation includes a section for discussion and Q&A, with possible discussion questions.
+### Dataset Balancing and Bias Mitigation
+
+- **Question**: Considering the large size of datasets used in training LLMs, what strategies could be implemented to ensure these datasets are balanced and free of biases without compromising the diversity and richness of the data?
+
+### Classification of Hallucinations
+
+- **Question**: Based on this paper’s classification of problem areas (design, behavior, science), in what area would hallucinations be classified?
+
+### Challenges in LLM Development
+
+- **Possible Discussion Question**: Which of the challenges is the furthest from being solved? Discuss reasons and potential solutions.
+
+### Growth Domains for LLM Applications
+
+- **Possible Discussion Question**: What domain will grow the most with LLM applications? Consider current technological advancements and societal needs.
+
+### Challenges Across Domains
+
+- **Possible Discussion Question**: What domain faces the most challenges with LLM applications? Discuss specific obstacles and how they might be overcome.
 
 ## Citation
 
