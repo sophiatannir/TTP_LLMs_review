@@ -165,6 +165,14 @@ A code demo is available in the repository: [Code Demo](https://github.com/sophi
 
 - **Possible Discussion Question**: What domain faces the most challenges with LLM applications? Discuss specific obstacles and how they might be overcome.
 
+## Additional Resources
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
+- [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+- [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.sciencedirect.com/science/article/pii/S1041608023000195)
+- [HuggingFace](https://huggingface.co/)
+
+
 ## Citation
 
 Kaddour, J., Harris, J., Mozes, M., Bradley, H., Raileanu, R., & McHardy, R. (2023, July 19). Challenges and applications of large language models. arXiv.org. https://arxiv.org/abs/2307.10169
