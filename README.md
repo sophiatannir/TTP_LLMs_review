@@ -1,6 +1,6 @@
 # Challenges and Applications of Large Language Models
 
-This repository contains a presentation on the challenges and applications of Large Language Models (LLMs) based on the paper by Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Robert Raileanu, and Robert McHardy.
+This repository contains a presentation on the challenges and applications of Large Language Models (LLMs) based on the paper by Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Robert Raileanu, and Robert McHardy. Read the full paper here: [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 
 ## Table of Contents
 
